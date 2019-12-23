@@ -1,3 +1,7 @@
+"""
+Author: Oscar Chou
+Date: 2019/12/23
+"""
 import matplotlib.pyplot as plt
 import random
 import scipy.stats as scs

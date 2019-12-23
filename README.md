@@ -8,7 +8,7 @@ TOTAL_LINES represents the number of rows of pins on a galton board. Thus the nu
        o o o o
       o o o o o
     | | | | | | |
-Bin: 1 2 3 4 5 6 
+ Bin 1 2 3 4 5 6 
 
 You can also change the percentage in which the ball goes right, by changing the value of p.
 The total number of tested balls is changed through TOTAL_BALLS.
